@@ -74,4 +74,8 @@ This is the main repository where my effort on learning basics of computer scien
 - [ ] C++
 - [ ] Python
 
+## References
+
+1. Mark Allen Weiss. "Data Structures and Algorithms Analysis in C++, 4th Edition", Pearson Ed., 2014.
+
 [@stoneyang](https://github.com/stoneyang)
