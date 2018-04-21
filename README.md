@@ -5,7 +5,7 @@ This is the main repository where my effort on learning basics of computer scien
 
 ## Data Structures
 
-- [] Lists
+- [ ] Lists
 [] Stacks
 [] Queues
 [] Trees
