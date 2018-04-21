@@ -74,4 +74,4 @@ This is the main repository where my effort on learning basics of computer scien
 - [ ] C++
 - [ ] Python
 
-@stoneyang
+[@stoneyang](https://github.com/stoneyang)
