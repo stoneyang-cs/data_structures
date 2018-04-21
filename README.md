@@ -3,6 +3,8 @@ data_structures
 
 This is the main repository where my effort on learning basics of computer science lives.
 
+## Algorithm Analysis
+
 ## Data Structures
 
 - [ ] Lists
@@ -17,5 +19,59 @@ This is the main repository where my effort on learning basics of computer scien
 - [ ] Sorting
   - [ ] Insertion sort
   - [ ] Shell sort
+  - [ ] Heap sort
+  - [ ] Merge sort
+  - [ ] Quick sort
+  - [ ] Bucket sort
+  - [ ] Radix sort
 - [ ] Disjoint Sets Class
 - [ ] Graph Algorithms
+  - [ ] Topological sort
+  - [ ] Shortest-path algorithms
+    - [ ] Unweighted shortest paths
+	- [ ] Dijkstra's algorithms
+	- [ ] Graphs with negative edge costs
+	- [ ] Acyclic graphs
+	- [ ] All-pair shortest path
+	- [ ] Shortest path example
+  - [ ] Network flow problems
+    - [ ] A simple maximum-flow algorithm
+  - [ ] Minimum spanning tree
+    - [ ] Prim's algorithm
+	- [ ] Kruskal's algorithm
+  - [ ] Applications of depth-first search
+    - [ ] Undirected graphs
+	- [ ] Biconnectivity
+	- [ ] Euler circuits
+	- [ ] Directed graphs
+	- [ ] Finding strong components
+  - [ ] NP-completeness
+    - [ ] Easy vs. Hard
+	- [ ] Class NP
+	- [ ] NP-complete problems
+- [ ] Algorithm Design Techniques
+  - [ ] Greedy algorithms
+  - [ ] Divide and conquer
+  - [ ] Dynamic programming
+  - [ ] Randomized algorithms
+  - [ ] Backtracking algorithms
+- [ ] Amortized Analysis
+  - [ ] Binomial queues
+  - [ ] Skew heaps
+  - [ ] Fibonacci heaps
+  - [ ] Splay trees
+- [ ] Advanced Data Structures & Implementation
+  - [ ] Top-down splay trees
+  - [ ] Red-black trees
+  - [ ] Treaps
+  - [ ] Suffix analysis & suffix trees
+  - [ ] k-d trees
+  - [ ] Pairing heaps
+
+## Programming Languages
+
+- [ ] C
+- [ ] C++
+- [ ] Python
+
+@stoneyang
